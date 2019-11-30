@@ -1,13 +1,28 @@
 .page-header {
-    background-color: #ff9400;
+    background-color:  #FF1493;
     margin-top: 0;
-    padding: 20px 20px 20px 40px;
+    padding: 20px 20px 40px 80px;
 }
 
 .page-header h1, .page-header h1 a, .page-header h1 a:visited, .page-header h1 a:active {
     color: #ffffff;
     font-size: 36pt;
     text-decoration: none;
+}
+
+.page-header:hover {
+    background: #e61787;
+}
+
+
+
+.mybody
+{
+	background-image: url('https://www.sienablu.com/wp-content/uploads/2019/02/AdobeStock_200860275.jpeg');
+  background-repeat: no-repeat;
+  background-position: right top;
+  background-attachment: fixed;
+
 }
 
 .content {
@@ -18,8 +33,9 @@ h1, h2, h3, h4 {
     font-family: 'Lobster', cursive;
 }
 
+
 .date {
-    color: #828282;
+    color: #9c869c;
 }
 
 .save {
@@ -44,3 +60,8 @@ h1, h2, h3, h4 {
 .post h1 a, .post h1 a:visited {
     color: #000000;
 }
+
+
+
+
+
